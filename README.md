@@ -8,10 +8,10 @@ Basic JavaScript calculator to perform basic operations like Addition, Subtracti
 
 ## Tech Stack
 
-**Client:** HTML, JavaScript
+HTML, JavaScript
 
 
 ## Authors
 
-- [@karasheeeka](https://www.github.com/karasheeeka)
+- [@theblaisecode](https://www.github.com/theblaisecode)
 
